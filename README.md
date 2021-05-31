@@ -1,5 +1,5 @@
 ## Project: Architecting a data flow to process and analyze server logs
-## Technologies: Apache Hadoop, Apache Kafka, Apache Spark, PostgreSQL
+## Technologies: Python, Apache Hadoop, Apache Kafka, Apache Spark, PostgreSQL
 ## Project Component: 
 ### Data Ingestion Layer: Apache Kafka 
 ### Data Processing Layer: Apache Spark (Hadoop), Apache Samza
